@@ -489,19 +489,19 @@ $SKPOLY
   9
 $TDCREATE
  40
-2457023.499363426
+2457023.499664352
   9
 $TDUCREATE
  40
-2457023.707696759
+2457023.707997685
   9
 $TDUPDATE
  40
-2457023.499363426
+2457023.499664352
   9
 $TDUUPDATE
  40
-2457023.707696759
+2457023.707997685
   9
 $TDINDWG
  40
@@ -929,7 +929,7 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{4CA1A8B7-B9D2-2D0D-D030-A65CBA2D2A59}
+{C5012DAD-654E-B7F5-2F57-D42A43F9BF68}
   9
 $VERSIONGUID
   2
@@ -3517,9 +3517,9 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-cuts
+bracket
  70
-     1
+     0
  62
    178
 420
@@ -4263,7 +4263,7 @@ CIRCLE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -4283,7 +4283,7 @@ CIRCLE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -4303,7 +4303,7 @@ CIRCLE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -4323,7 +4323,7 @@ CIRCLE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -4343,7 +4343,7 @@ CIRCLE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -4363,7 +4363,7 @@ CIRCLE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -4383,7 +4383,7 @@ CIRCLE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -4403,7 +4403,7 @@ CIRCLE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -4423,7 +4423,7 @@ LINE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -4447,7 +4447,7 @@ LINE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -4471,7 +4471,7 @@ LINE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -4495,7 +4495,7 @@ LINE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -4519,7 +4519,7 @@ LINE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -4543,7 +4543,7 @@ LINE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -4567,7 +4567,7 @@ LINE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -4591,7 +4591,7 @@ LINE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -4615,7 +4615,7 @@ LINE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -4639,7 +4639,7 @@ LINE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -4663,7 +4663,7 @@ LINE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -4687,7 +4687,7 @@ LINE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -4711,7 +4711,7 @@ LINE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -4735,7 +4735,7 @@ LINE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -4759,7 +4759,7 @@ LINE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -4783,7 +4783,7 @@ LINE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -4807,7 +4807,7 @@ LINE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -4831,7 +4831,7 @@ LINE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -4855,7 +4855,7 @@ LINE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -4879,7 +4879,7 @@ LINE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -4903,7 +4903,7 @@ LINE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -4927,7 +4927,7 @@ LINE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -4951,7 +4951,7 @@ LINE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -4975,7 +4975,7 @@ LINE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -4999,7 +4999,7 @@ LINE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -5023,7 +5023,7 @@ LINE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -5047,7 +5047,7 @@ LINE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -5071,7 +5071,7 @@ LINE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -5095,7 +5095,7 @@ LINE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -5119,7 +5119,7 @@ LINE
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -5143,7 +5143,7 @@ ARC
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -5169,7 +5169,7 @@ ARC
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -5195,7 +5195,7 @@ ARC
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -5221,7 +5221,7 @@ ARC
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -5247,7 +5247,7 @@ ARC
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -5273,7 +5273,7 @@ ARC
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -5299,7 +5299,7 @@ ARC
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -5325,7 +5325,7 @@ ARC
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -5351,7 +5351,7 @@ ARC
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -5377,7 +5377,7 @@ ARC
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -5403,7 +5403,7 @@ ARC
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -5429,7 +5429,7 @@ ARC
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -5455,7 +5455,7 @@ ARC
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -5481,7 +5481,7 @@ ARC
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -5507,7 +5507,7 @@ ARC
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -5533,7 +5533,7 @@ ARC
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -5559,7 +5559,7 @@ ARC
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -5585,7 +5585,7 @@ ARC
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -5611,7 +5611,7 @@ A1
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -5637,7 +5637,7 @@ A2
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -5663,7 +5663,7 @@ A3
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -5689,7 +5689,7 @@ A4
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -5715,7 +5715,7 @@ A5
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -5741,7 +5741,7 @@ A6
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -5767,7 +5767,7 @@ A7
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -5793,7 +5793,7 @@ A8
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -5819,7 +5819,7 @@ A9
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -5845,7 +5845,7 @@ AA
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -5871,7 +5871,7 @@ AB
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -5897,7 +5897,7 @@ AC
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -5923,7 +5923,7 @@ B5
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -5947,7 +5947,7 @@ B6
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -5971,7 +5971,7 @@ B7
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -5995,7 +5995,7 @@ B8
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -6019,7 +6019,7 @@ B9
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -6043,7 +6043,7 @@ BA
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -6067,7 +6067,7 @@ BB
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -6091,7 +6091,7 @@ BD
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -6115,7 +6115,7 @@ BF
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -6139,7 +6139,7 @@ C5
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -6165,7 +6165,7 @@ C6
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -6191,7 +6191,7 @@ C7
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -6217,7 +6217,7 @@ C8
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -6243,7 +6243,7 @@ CA
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -6269,7 +6269,7 @@ CB
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -6295,7 +6295,7 @@ DA
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -6315,7 +6315,7 @@ DB
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -6335,7 +6335,7 @@ DC
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -6355,7 +6355,7 @@ DD
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -6375,7 +6375,7 @@ DF
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -6399,7 +6399,7 @@ E0
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -6423,7 +6423,7 @@ E1
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -6447,7 +6447,7 @@ E2
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -6471,7 +6471,7 @@ E3
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbLine
  10
@@ -6495,7 +6495,7 @@ E5
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -6521,7 +6521,7 @@ E6
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -6547,7 +6547,7 @@ E7
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -6573,7 +6573,7 @@ E8
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -6599,7 +6599,7 @@ E9
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
@@ -6625,7 +6625,7 @@ EA
 100
 AcDbEntity
   8
-cuts
+bracket
 100
 AcDbCircle
  10
