@@ -13,7 +13,7 @@
 overlap = 0.05;
 
 // centered with collar facing in -Y direction and origin at
-// point where collar and pulley meet
+// center of belt radius
 module metal_pulley() {
     $fa = 6;
     bore_dia = 6.35;
@@ -24,6 +24,7 @@ module metal_pulley() {
     collar_dia = 20.6375;
     collar_w = 5.55625;
     total_w = collar_w + outer_w;
+    translate([0,-outer_w/2,0])
     difference() {
 	union() {
 	    // pulley body
