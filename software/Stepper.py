@@ -48,7 +48,6 @@ D7 = -   		 = X
 
 import time
 import logging
-from Path import Path
 
 try:
     from spi import SPI
@@ -165,10 +164,6 @@ class Stepper:
             #self.state = int("0b"+bin(self.state)[2:].rjust(8, '0')[:4]+bin(value)[2:].rjust(3, '0')+"0", 2)
         self.mmPrStep    = 1.0/(self.steps_pr_mm*self.microsteps)
         #logging.debug("Updated stepper "+self.name+" to microstepping "+str(self.microsteps))
-
-        # update the Path class with new values
-        stepper_num = Path.axis_to_index(self.name)
-        Path.steps_pr_meter[stepper_num] = self.get_steps_pr_meter()
 
         if force_update:
             self.update()
