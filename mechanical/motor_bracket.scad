@@ -95,9 +95,11 @@ module pulley_bracket() {
     }
 }
 
-pulley_bracket();
+//pulley_bracket();
 
-//motor_bracket();
+motor_bracket();
+
+//translate([0,belt_offset-16,pulley_rise]) color([0.8,0.2,0.2]) nema23_mount();
 
 //translate([0,10,0])
 translate([0,belt_offset,pulley_rise])
