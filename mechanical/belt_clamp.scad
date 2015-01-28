@@ -1,5 +1,5 @@
 pl_hole_d = 5.25;
-pl_hole_sep = 40;
+pl_hole_sep = 20;
 
 belt_mid_h = 12.5;
 belt_w = 10;
@@ -21,16 +21,14 @@ module screw_hole() {
 module belt_clamp() {
     difference() {
 	union() {
-	    translate([-25,0,0]) cube(size=[50,th,th]);
-	    for (x = [-37,37]) {
-		translate([-14+x,0,0])
-		cube(size=[28,th+1,belt_mid_h+(cl_hole_sep/2)+3]);
-	    }
+	    //translate([-25,0,0]) cube(size=[50,th,th]);
+	    translate([-24,0,0])
+	    cube(size=[24,th+1,belt_mid_h+(cl_hole_sep/2)+3]);
 
-	    for (x = [-pl_hole_sep/2,pl_hole_sep/2]) {
+	    for (y = [0,pl_hole_sep]) {
 		minkowski() {
-		    translate([x,5,0.0001]) cube([8,6,0.0001],center=true);
-		    cylinder(r=2,h=th);
+		    translate([0,5+pl_hole_sep/2,0.0001]) cube([8,6+pl_hole_sep,0.0001],center=true);
+		    cylinder(r=2,h=5);
 		}
 	    }
 	}
@@ -39,19 +37,18 @@ module belt_clamp() {
 	    cube(size=[2.4,1.4,belt_w]);
 	}
 	for (z = [-cl_hole_sep/2,cl_hole_sep/2]) {
-	    for (x = [-cl_sep/2,cl_sep/2]) {
-		translate([x,0,z+belt_mid_h])
-		rotate([90,0,0])
-		cylinder(d=cl_hole_d,h=20,center=true);
-	    }
+	    translate([-12,0,z+belt_mid_h])
+	    rotate([90,0,0])
+	    cylinder(d=cl_hole_d,h=20,center=true);
 	}
 		    
 
-	for (x = [-pl_hole_sep/2,pl_hole_sep/2]) {
-	    translate([x,5,3.5]) screw_hole();
+	for (y = [0,pl_hole_sep]) {
+	    translate([0,y+5,3.5]) screw_hole();
 	    
 	}
     }
 }
 
 belt_clamp();
+translate([20,0,0]) mirror() belt_clamp();
